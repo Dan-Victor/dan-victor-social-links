@@ -49,8 +49,11 @@
   
 @media (max-width:800px){
   .container{
-    width: 90%;
+    width: 100%;
     margin: 60px auto;
   
   }
+body{
+  background-color: hsl(0, 2%, 10%);
+}
 }
