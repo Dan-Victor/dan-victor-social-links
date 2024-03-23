@@ -36,6 +36,6 @@ element.addEventListener('mouseout', ()=>{
  })
  //for snapChat
  snapChat.addEventListener('click' , ()=>{
-    window.open('https://www.github.com/dan-victor',"_blank")
+    window.open('https://www.snapchat.com/add/vdhan91?share_id=0WoKfzmK0Jk&locale=en-NG',"_blank")
  })
 })
